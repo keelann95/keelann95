@@ -96,8 +96,8 @@ const keelann = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keelann95&show_icons=true&theme=tokyonight" alt="Keelann95's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keelann95&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Keelann95&show_icons=true&theme=tokyonight" alt="Keelann95's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keelann95&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </div>
 
 ## 🏆 GitHub Trophies
